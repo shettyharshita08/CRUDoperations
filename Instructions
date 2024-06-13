@@ -1,0 +1,5 @@
+1. Download the zip file , open it in IntelliJ IDEA CE.
+2. Make sure , you have JDK 21 installed and JAVA_HOME set.
+3. Execute the given query in MySQL Workbench in src/main/resources/table.sql file.
+4. Run the application on localhost:8080. Make sure the server port 8080 is free and not used by any process.
+5. API documentation is available at http://localhost:8080/swagger-ui/index.html#/
