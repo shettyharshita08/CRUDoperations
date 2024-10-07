@@ -1,4 +1,4 @@
-# Cat Operations
+# CRUD Operations
 
 ## Important Note
 - **Port Used:** 8080
@@ -6,11 +6,6 @@
     - Username: user
     - Password: password
 
-## Flow Diagram
-- The Flow diagram is provided for better understanding of the project.
-```properties
-Flow-Diagram.png
-```
 
 ## Description
 This project is based on CRUD Operations communicating with MySql DB and application is developed using Java, Spring Boot, and Gradle. 
@@ -18,9 +13,6 @@ This project is based on CRUD Operations communicating with MySql DB and applica
  ## Technology Stack
 - Java (Spring Boot)
 - Gradle
-- JUnit
-- Docker
-- Jenkins
 - Swagger
 
 ### Prerequisites to have in local machine
@@ -40,5 +32,4 @@ http://localhost:8080/swagger-ui/index.html
 ## Exception Handling
 1. Global Exception Handling is used to handle the exceptions in the API with '@ControllerAdvice' and '@ExceptionHandler' annotations.
 
- 
  
